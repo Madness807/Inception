@@ -1,5 +1,9 @@
 # Inception
 
+# OS
+- Alpine
+
+
 # Docker
 |Docker|Name|version|
 |------|----|-------|
@@ -15,3 +19,10 @@
 
 # Docker network
 //in construction //
+
+
+# USERS
+
+|USER|TYPE|
+|----|----|
+|    |    |
